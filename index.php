@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Empleados</title>
+    <title>Productos</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -30,7 +30,7 @@
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                <form class="d-flex" action="crud_empleado.php" method="post" id="form_empleados">
+                <form class="d-flex" action="crud_productos.php" method="post" id="form_empleados">
             <div class="col">
                 <div class="mb-3">
                 <input type="text"  class="form-control" id="txt_id" name="txt_id" placeholder="0" readonly>
