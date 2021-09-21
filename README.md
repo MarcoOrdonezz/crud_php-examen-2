@@ -1,2 +1,8 @@
-# crud_php-examen-2
-Examen parcial 2 Desarrollo Web
+### EXAMEN PARCIAL II DESARROLLO WEB
+### Crud Productos en PHP
+
+### DATOS PERSONALES
+
+- Marco Vinicio Ordonez Pérez
+- Carné 1290-18-6334
+- Universidad Mariano Gálvez de Guatemala
